@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/postgrest-filter",
+    "version": "0.1.1",
+    "projects": [
+        "https://postgrest.org/en/stable/references/api/tables_views.html#vertical-filtering"
+    ],
+    "devDependencies": {
+        "@types/postgrest-filter": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Yovanis",
+            "githubUsername": "yosva"
+        }
+    ]
+}
